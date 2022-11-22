@@ -10,7 +10,7 @@ export default function Header() {
                 alt=""
             />
             <h2 className="header--title">Meme Generator</h2>
-            <h4 className="header--project">React Course - Project 3</h4>
+            <h4 className="header--project">Scrimba Course - Project 3</h4>
         </header>
     )
 }
