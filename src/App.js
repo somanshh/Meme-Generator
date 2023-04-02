@@ -7,7 +7,7 @@ function App() {
 
       <Nav />
       <Form />
-      <h1> Somansh was here </h1>
+      {/* <h1> Somansh was here </h1> */}
     </div>
   );
 }
