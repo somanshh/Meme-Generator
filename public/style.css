@@ -124,13 +124,15 @@ main {
         margin-top: 20%;
         /* height: max-content; */
         height: 100%;
+        margin-left: 10%;
+        border-radius: 10px;
     }
     
     main {
         /* margintop */
-        padding: 10%;
+        padding: 10px;
         max-width: 400px;
-        margin: 10%;
+        /* margin: 10%; */
     }
     
     .header {
