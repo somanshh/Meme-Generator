@@ -128,8 +128,9 @@ main {
     
     main {
         /* margintop */
-        padding: 10px;
+        padding: 10%;
         max-width: 400px;
+        margin: 10%;
     }
     
     .header {
@@ -160,13 +161,13 @@ main {
         border-radius: 5px;
         border: 1px solid #D5D4D8;
         text-indent: 5px;
-        max-width: 200px;
+        max-width: 150px;
     }
 
     .form--button {
         grid-column: 1 / -1;
         font-family: "Poppins", sans-serif;
         border-radius: 5px;
-        max-width: 300px;
+        max-width: 390px;
     }
 }
